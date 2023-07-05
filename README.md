@@ -1,5 +1,3 @@
-Sure! Here are step-by-step instructions for how to use a Raspberry Pi Pico with a joystick module and a button to control the mouse on your PC:
-
 1. **Connect the joystick module and button to your Raspberry Pi Pico:**
     - Connect the `GND` pin on the joystick module to a `GND` pin on the Pico.
     - Connect the `VCC` pin on the joystick module to a `3V3(OUT)` pin on the Pico.
