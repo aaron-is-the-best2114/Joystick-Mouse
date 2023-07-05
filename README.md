@@ -3,7 +3,7 @@
     - Connect the `VCC` pin on the joystick module to a `3V3(OUT)` pin on the Pico.
     - Connect the `VRx` pin on the joystick module to an analog input pin `GP26` on the Pico.
     - Connect the `VRy` pin on the joystick module to another analog input pin `GP27` on the Pico.
-    - Connect the `SW` pin on the joystick module to a digital input pin on the Raspberry Pi Pico, such as `GP16`.
+    - Connect the `SW` pin on the joystick module to pin `GP16` on the pico.
 
 2. **Install CircuitPython on your Raspberry Pi Pico:**
     - Download the latest version of CircuitPython for the Raspberry Pi Pico from the [CircuitPython website](https://circuitpython.org/board/raspberry_pi_pico/).
